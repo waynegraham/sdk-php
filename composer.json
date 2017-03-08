@@ -1,0 +1,6 @@
+{
+    "name": "membersuite/sdk-php",
+    "description": "MemberSuite SDK for pHp",
+    "type": "library",
+    "require": {}
+}
